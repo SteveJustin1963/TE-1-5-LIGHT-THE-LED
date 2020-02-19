@@ -1,6 +1,6 @@
 # TE-1-5-LIGHT-THE-LED
 
-https://easyeda.com/editor#id=3e553166374144af88f248e61abce827
+https://easyeda.com/editor#id=3e553166374144af88f248e61abce827|df0667116f9141a284b915eca166ce92
 
 ![](https://github.com/SteveJustin1963/TE-1-5-LIGHT-THE-LED/blob/master/LTL-cct-1.png)
 
