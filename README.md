@@ -1,4 +1,4 @@
-# TE-1-5-LIGHT-THE-LED
+# TE-1-LIGHT-THE-LED
 
 https://easyeda.com/editor#id=3e553166374144af88f248e61abce827|df0667116f9141a284b915eca166ce92
 
